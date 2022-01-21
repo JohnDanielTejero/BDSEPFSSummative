@@ -1,0 +1,11 @@
+QUESTIONS,Choices,Correct Answers
+HTML stands for,HighText Machine Language-HyperText and links Markup Language-HyperText Markup Language-None of these,HyperText Markup Language
+In HTML we have _________ type of heading tags.,7-5-4-6,6
+Choose the correct HTML tag to make the text bold? (Two Answers),<b>-<bold>-<strong>-<em>,<b>-<strong>
+What is the correct HTML tag for inserting a line break?,<br>-<lb>-<break>-<style>,<br>
+Which of the following is the paragraph tag in HTML?,<a>-<p>-<pre>-None of the above,<p>
+The tags in HTML are,case sensitive-in uppercase-not case sensitive-in lowercase,not case sensitive
+Which of the following element is responsible for making the text italic in HTML? (Two Answers),<i>-<italic>-<em>-<pre>,<i>-<em>
+How to insert an image in HTML?,<img href = 'jtp.png' />-<img url = 'jtp.png' />-<img link = 'jtp.png' />-<img src = 'jtp.png' />,<img src = 'jtp.png' />
+HTML tags are enclosed in,# and #-{ and }-! and ?-< and >,< and >
+ An HTML program is saved by using the ____ extension.(Two Answers),.ht-.html-.htm-.hml,.html-.htm

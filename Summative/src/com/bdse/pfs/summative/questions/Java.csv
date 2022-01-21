@@ -1,0 +1,11 @@
+QUESTIONS,Choices,Correct Answers
+What does JDK mean?,Java Dependency Kit-Java Development Kit-Java Demonstration Kit-Java Decompiler Kit,Java Development Kit
+Which tool converts bytecode into machine specific code and executes them ?,JVM-JDK-JIT-JRE,JVM
+Which are all true about java? (Two Answers),Platform independent-Object Oriented Language-Procedural Language-Functional Language,Platform independent-Object Oriented Language
+What is the result of the following expression? '12' + 1 + 2,15-'123'-'15'-'1212','1212'
+To instantiate MyClass you would write?,MyClass mc = new MyClass();-MyClass mc = MyClass();-MyClass mc = MyClass;-MyClass mc = new MyClass;,MyClass mc = new MyClass();
+The default value of a static integer variable of a class in Java is?,0-1-null-2,0
+Java language was initially called as ________,Sumatra-Oak-J++-Pine,Oak
+Which one is a template for creating different objects ?,An Array-A Class-Interface-Method,A Class
+Which symbol is used to contain the values of automatically initialized arrays,Brackets-Braces-Parenthesis-Comma,Braces
+Which of these is returned by Greater Than Less Than and Equal To (i.e Relational) operator ?,Float-Integer-Boolean-Double,Boolean

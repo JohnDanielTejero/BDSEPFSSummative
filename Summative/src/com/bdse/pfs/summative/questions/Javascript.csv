@@ -1,0 +1,11 @@
+QUESTIONS,Choices,Correct Answers
+ Javascript is _________ language.,Compiled-Programming-Scripting-Application,Scripting
+JavaScript is designed for following purpose-,To Style HTML Pages-To Perform Server Side Scripting Operation-To add interactivity to HTML Pages.-To Execute Query Related to DB on Server,To add interactivity to HTML Pages.
+Select Appropriate Options (Two answers) : JavaScript can be written -,directly into JS file and included into HTML-directly into HTML pages-directly on the Server Script-directly into a CSS file,directly into JS file and included into HTML-directly into HTML pages
+JavaScript is an ________ language.,Interpreted-Compiled-Both A and B-Intermediate,Interpreted
+Executable single line of Script is called as _________________.,Line in JS-Statement in JavaScript-Breakpoint in JS-None of these,Statement in JavaScript
+JavaScript Statements are executed by ________ .,Server-JVM-Browser-Compiler,Browser
+JavaScript Statement terminated by ______________ .,Semicolon-Slash-Comma-Full stop,Semicolon
+Which of the following statement is used to declare variable in JavaScript,Assignment Statement-Conditional Statement-Declaration Statement-Executable Statement,Declaration Statement
+Variable can hold ________ value at a time,None of these-Multiple-Double-Single,Single
+Integer Variable is declared using following syntax in JavaScript(Two answers).,let num-var num-int num-double num,let num-var num
